@@ -6,7 +6,7 @@
 📫 How to reach me: [sergiopazgarcia01@gmail.com]<br/>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sergio-paz-garcia-1872a0243) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sergio-paz-garcia-1872a0243) 
 
 ## 🛠️ Engineering & Software Tools:
 **Programming and scripting:**
